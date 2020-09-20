@@ -29,6 +29,7 @@ body{
     color: #5e5e5e;
 }
 
+
 header{   
     font-family: "Roboto , sans-serif"
     }
@@ -80,7 +81,6 @@ transition: all .4s;
 .header_phone:hover,
 .header_email:hover{
     text-decoration:underline;
-    
 }
 
 
@@ -205,7 +205,9 @@ padding-left: 10px;
 }
 
 
-
+.accordion{
+  transition: 0.6;
+}
 
  .slider__item-content{
      text-align: center;
